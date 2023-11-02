@@ -1,0 +1,1 @@
+# Exodus-Wallet-SchemaSafe-Seed-Cryptocompare-Api-Web3-WalletConnect
